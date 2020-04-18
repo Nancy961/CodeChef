@@ -9,12 +9,12 @@ int main()
 	cin>>N;
 	ll Budget[N];
 	
-  for(ll i=0;i<N;i++)
+  	for(ll i=0;i<N;i++)
 	    cin>>Budget[i];
-  sort(Budget,Budget+N);
+  	sort(Budget,Budget+N);
 	
 	for(ll i=0;i<N;i++)
-  {
+ 	{
 	    Budget[i]*=(N-i);
 	    if (Budget[i]>max)
 	        max=Budget[i];

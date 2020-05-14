@@ -1,2 +1,5 @@
-# CodeChef
-CodeChef Practice Problems
+# Coding - Practise
+CodeChef 
+HackerRank
+HackerEarth
+SoloLearn
